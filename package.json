@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "DataManager written in typescript",
   "main": "DataManager",
+  "scripts": {
+    "devTest": "nodemon dist/test/test.js"
+  },
   "repository": "git@github.com:youssef-182/DataManager.git",
   "author": "youssef-182 <anasyoussef.elmahdad-182@protonmail.com>",
   "license": "MIT",
